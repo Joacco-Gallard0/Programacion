@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+            }
+            #cuadrado {
+            width: 200px;           /* Ancho de 200 píxeles */
+            height: 200px;          /* Alto de 200 píxeles */
+            background: rgb(158, 138, 138);        /* Fondo de color gris */
+            border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
+            margin:20px auto;
+            }
+
+            

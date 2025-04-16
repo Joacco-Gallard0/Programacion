@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(124, 70, 160);
+    text-align: center;
+            }
+            #taskInput{
+                width: 100px;           /* Ancho de 200 píxeles */
+                height: 40px;          /* Alto de 200 píxeles */
+                background: rgb(158, 138, 138);        /* Fondo de color gris */
+                border: 2px solid #000; /* Borde color negro y de 1 píxel de grosor */
+                margin:20px auto;
+            }
+            
+            
